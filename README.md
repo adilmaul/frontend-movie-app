@@ -2,7 +2,10 @@
 
 ## Project setup
 ```
-npm install
+- Create Account at https://www.themoviedb.org/signup
+- Generate API https://www.themoviedb.org/settings/api
+- Replce the key at src/api/Api.js  
+- npm install
 ```
 
 ### Compiles and hot-reloads for development
